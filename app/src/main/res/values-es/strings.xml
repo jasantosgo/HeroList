@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Heroes List</string>
+
+    <!-- Add in flower names  -->
+    <string-array name="hero_array">
+        <item>Hombre araña</item>
+        <item>Capitán América</item>
+        <item>Super hombre</item>
+        <item>Hombre verde y fuerte</item>
+        <item>El del martillo, Dios del Rayo</item>
+        <item>Viuda negra</item>
+        <item>Hombre hormiga</item>
+        <item>Hombre de agua</item>
+        <item>Capitana Marvel</item>
+        <item>Doctor Extraño</item>
+</string-array></resources>
