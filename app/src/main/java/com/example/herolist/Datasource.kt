@@ -21,7 +21,7 @@ import android.content.Context
 class Datasource(val context: Context) {
     fun getHeroList(): Array<String> {
 
-        // Return flower list from string resources
+        // Return heroe list from string resources
         return context.resources.getStringArray(R.array.hero_array)
     }
 }

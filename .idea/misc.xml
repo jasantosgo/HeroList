@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Aplicaciones/HeroList/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android/Aplicaciones/HeroList/app/src/main/res/layout/hero_item.xml" value="0.14768683274021352" />
         <entry key="..\:/AndroidStudio/HeroList/app/src/main/res/layout-land/activity_main.xml" value="0.6342342342342342" />
         <entry key="..\:/AndroidStudio/HeroList/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudio/HeroList/app/src/main/res/layout/flower_item.xml" value="0.36666666666666664" />
